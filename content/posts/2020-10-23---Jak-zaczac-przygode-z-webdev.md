@@ -1,6 +1,6 @@
 ---
 title: Web development - jak zacząć?
-date: "2020-10-19T17:08:00.169Z"
+date: "2020-10-23T17:08:00.169Z"
 template: "post"
 draft: false
 slug: "/posts/webdev-how-to-begin/"
@@ -76,6 +76,6 @@ Miłej lektury!
 
 
 
-*- Marcin Ławniczak [marcinlawnik](https://github/com/marcinlawnik)*
+*- Marcin Ławniczak [marcinlawnik](https://github.com/marcinlawnik)*
 
 > Jeśli masz jakieś uwagi lub sugestie, podeślij nam je na adres [kontakt@akai.org.pl](mailto:kontakt@akai.org.pl) lub kontrybuuj do naszego [repozytorium](https://github.com/akai-org/blog).
